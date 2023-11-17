@@ -16,4 +16,4 @@ Group Number:
 Individual Submitter:
 23341056 Sabbir Bin Abdul Latif
 
-I also correctly uploaded slide (PPT) and report (PDF) here.
+I also correctly uploaded the slide (PPT) and report (PDF) here.
