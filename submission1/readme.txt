@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/IhfGOplPPp0
 
 Public link to the slide:
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1BkaPDSbY-uvlUJtTcNtfQDUXdp0A1MVIZQaIoWfEFjI
 
 Paper title:
 Don’t Burst Blindly: For a Better Use of Natural Language Processing to Fight Opinion Bubbles in News Recommendations
@@ -16,4 +16,4 @@ Group Number:
 Individual Submitter:
 23341056 Sabbir Bin Abdul Latif
 
-I also correctly uploaded the slide (PPT) and report (PDF) here.
+I also correctly uploaded slide (PPT) and report (PDF) here.
