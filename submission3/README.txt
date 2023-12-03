@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Project title:
-Detection Biases in Newspapers using Natural Language Processing
+Detecting Biases in Newspapers using Natural Language Processing
 
 Group Number:
 12
