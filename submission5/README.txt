@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/ftzbvfkydbxy
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/FexbQ96e0DI
 
 Project title:
 Detecting Biases in Newspapers using Natural Language Processing
